@@ -1,0 +1,2 @@
+include ':app',":library-permission"
+rootProject.name='jetpack'
